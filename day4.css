@@ -1,0 +1,100 @@
+@media screen and (max-width: 500px) {
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  .day1 {
+    background-color: rgb(242, 245, 252);
+    height: 100px;
+    width: 100%;
+  }
+  .day1 img {
+    width: 140px;
+  }
+  .dayStar {
+    display: grid;
+  }
+  .starDiv {
+    display: flex;
+  }
+  .dayStar h3 {
+    margin-top: 30px;
+    padding-left: 20px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+  }
+  #beginner {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-left: 5px;
+  }
+  .starDiv {
+    padding-left: 20px;
+    margin-top: 4px;
+  }
+  .day1 img {
+    position: relative;
+    left: 220px;
+    top: -105px;
+  }
+  .star1 {
+    color: rgb(83, 83, 237);
+  }
+  #sect2 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+  }
+  .exercise h4 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+  }
+  .exercise {
+    margin-left: 20px;
+  }
+  .exercise p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    color: #616161;
+  }
+  .time h4 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+  }
+  .time p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    color: #616161;
+  }
+  .anim {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+  }
+  .anim h4 {
+    margin-right: 20px;
+  }
+  .border1 {
+    background-color: #616161;
+    width: 1px;
+    height: 19px;
+    margin-top: 10px;
+  }
+  .border2 {
+    background-color: #616161;
+    width: 1px;
+    height: 19px;
+    margin-top: 10px;
+  }
+  #sectionn2 p {
+    color: rgb(116, 114, 114);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    margin-left: -25px;
+  }
+  #sectionn2 {
+    text-align: center;
+    padding-top: 190px;
+  }
+}
